@@ -212,6 +212,8 @@
     color: #fff
 }
 
+
+
 .fa-glass:before {
     content: "\f000"
 }
@@ -716,7 +718,7 @@
 }
 
 .fa-tiktok-square:before {
-    content: "\f087"
+    content: "\e07b"
 }
 
 .fa-camera-retro:before {
@@ -2085,6 +2087,7 @@
 .fa-calculator:before {
     content: "\f1ec"
 }
+
 
 .fa-paypal:before {
     content: "\f1ed"
